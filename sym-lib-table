@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name VFD)(type Legacy)(uri "/Users/seth/Documents/KiCad/VFD Library/vfd.lib")(options "")(descr ""))
+  (lib (name ESP-M2)(type Legacy)(uri /Users/seth/Downloads/esp8285-kicad-library-master/ESP8285.lib)(options "")(descr ""))
+  (lib (name RT8059)(type Legacy)(uri ${KIPRJMOD}/RT8059.lib)(options "")(descr ""))
+)
