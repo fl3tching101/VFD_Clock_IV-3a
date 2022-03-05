@@ -2,4 +2,5 @@
   (lib (name "VFD")(type "KiCad")(uri "${KIPRJMOD}/Libraries/VFD/VFD.pretty")(options "")(descr ""))
   (lib (name "ESP-M2")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ESP8285/ESP8285.pretty")(options "")(descr ""))
   (lib (name "StampPico")(type "KiCad")(uri "${KIPRJMOD}/Libraries/StampPico/StampPico.pretty")(options "")(descr ""))
+  (lib (name "BOURNS-3362P")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Potentiometer/BOURNS-3362P.pretty")(options "")(descr ""))
 )
